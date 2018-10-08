@@ -7,4 +7,4 @@ applications:
   instances: 2
   command: ./scripts/cf_run_app.sh
 routes:
-- route: submit.apps.b.cld.gov.au
+- route: submit.apps.y.cld.gov.au
