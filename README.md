@@ -6,6 +6,8 @@ The [Cloud Assessment Tool (CAT)](assess.cloud.gov.au) is designed to help Austr
 
 The CAT Server is used for uploading and storing completed reports from the CAT front-end.
 
+*DEPRECATED - the CAT Server is no longer in active use.*
+
 ## Production deployment
 
 The CAT Server is designed to be hosted on cloud.gov.au using CircleCI for deployments. The Cloud Foundry manifest is available at `manifest.yml`. The CircleCI config is available at `.circleci/config.yml`.
